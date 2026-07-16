@@ -92,25 +92,11 @@ secure, maintainable, and scalable software applications.
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=ShashiMunasinghe&show_icons=true&theme=transparent&hide_border=true" />
+<!-- <img width="49%" src="https://github-stats-extended.vercel.app/api?username=ShashiMunasinghe&show_icons=true&theme=transparent&hide_border=true" /> -->
 
 <img width="37%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShashiMunasinghe&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shashinimunasinghe">
-    <img src="https://img.shields.io/badge/LinkedIn-Shashini%20Munasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:shashinikavishma020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 <!--
 **ShashiMunasinghe/ShashiMunasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
